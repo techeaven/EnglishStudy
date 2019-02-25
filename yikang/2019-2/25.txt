@@ -1,20 +1,20 @@
-it
-for
-let
-dress
-their
-girl
-chinese
-glasses
-hair
-pen
-yellow
-fifteen
-blackboard
-today
-red
-some
-begin
-close
-house
-teacher
+it  它
+for  为
+let	  让
+dress	衣服
+their  他们的
+girl	女孩
+chinese		中国
+glasses		眼镜
+hair	头发
+pen		笔
+yellow	黄色
+fifteen	十五	
+blackboard		黑板
+today	今天
+red		红色
+some	一些
+begin	开始
+close	关闭
+house	房子
+teacher		教师
