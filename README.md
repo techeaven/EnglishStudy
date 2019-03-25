@@ -1,2 +1,0 @@
-# EnglishStudy
-English study repository
